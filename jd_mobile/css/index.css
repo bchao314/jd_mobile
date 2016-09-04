@@ -1,0 +1,620 @@
+
+html,body {
+    background: #ffffff;
+    min-width: 300px;
+    max-width: 640px;
+    margin: 0 auto;
+    height: 2000px;
+}
+
+.jd-layout {
+    min-width: 300px;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.jd-header {
+    width: 100%;
+    height: 40px;
+    background: #ccc;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.jd-header .jd-header-box{
+    width: 100%;
+    min-width: 320px;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+    background: rgba(201,21,35,0);
+    height: 40px;
+}
+.jd-header-box .icon-logo {
+    background-position: 0 -103px;
+    display: block;
+    height: 36px;
+    width: 60px;
+    position: absolute;
+    top: 4px;
+    left: 10px;
+}
+.jd-header-box form{
+    width: 100%;
+    height: 40px;
+    padding-left: 75px;
+    padding-right: 55px;
+    position: relative;
+}
+ form .icon-search{
+    display: block;
+    height: 30px;
+    width: 30px;
+    background-position: -118px 3px;
+    position: absolute;
+    top: 10px;
+    left: 80px;
+}
+.jd-header-box input {
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding-left: 30px;
+
+}
+.jd-header-box .login {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    color: #ffffff;
+}
+
+
+/*banner 部分*/
+.jd-banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+
+
+}
+.jd-banner .slider-pic {
+    width: 800%;
+
+}
+.jd-banner .slider-pic >li{
+    float: left;
+    width: 12.5%;
+
+}
+.jd-banner .slider-pic >li img {
+    width: 100%;
+    display: block;
+}
+.jd-banner .pos {
+    width: 118px;
+    height: 6px;
+    position: absolute;
+    bottom: 10px;
+    left:50%;
+    margin-left: -59px;
+}
+.jd-banner .pos li {
+    width: 8px;
+    height: 8px;
+    border: 1px solid #ebebeb;
+    float: left;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+.jd-nav {
+    width: 100%;
+    position: relative;
+    background: url(../images/dapangxie.jpg)no-repeat;
+    background-size: contain;
+
+}
+.jd-nav ul {
+    width: 100%;
+}
+.jd-nav li {
+    float: left;
+    position: relative;
+    width: 20%;
+    text-align: center;
+    padding-bottom: 16px;
+
+}
+.jd-nav li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.jd-nav li img {
+    width: 46px;
+    height: 46px;
+}
+.jd-nav li p {
+    color: #ffffff;
+    font-family: "微软雅黑";
+}
+
+
+    /*螃蟹脚*/
+.nav-extra {
+    width: 100%;
+    position: relative;
+    top: -2px;
+
+}
+.nav-extra .extra-children {
+    float: left;
+    width: 33.3%;
+
+}
+.nav-extra .extra-children  img{
+    width: 100%;
+    display: block;
+}
+
+/*@media screen and (min-width: 320px){
+    .jd-nav li p {
+        font-size: 10px;
+    }
+    .jd-nav li img {
+        width: 30px;
+        height: 32px;
+    }
+    .p-list .pBox-font {
+        line-height: 14px;
+    }
+
+
+
+    .p-list .pBox-font .p-name {
+        font-size: 14px;
+    }
+    .p-list .pBox-font .p-dec {
+        font-size: 12px;
+    }
+    .p-list .pBox-font .p-hot {
+        font-size: 8px;
+        height: 12px;
+        padding:5px 0;
+    }
+
+}*/
+/*
+@media screen and (min-width: 375px){
+    .jd-nav li p {
+        font-size: 14px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -13px;
+
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+}
+@media screen and (min-width: 414px){
+    .jd-nav li p {
+        font-size: 16px;
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -2px;
+
+    }
+}
+@media screen and (min-width: 640px) {
+    .jd-nav li img {
+        width: 90px;
+        height: 90px;
+    }
+}
+*/
+
+
+/*秒杀*/
+.jd-product-box {
+    width: 100%;
+
+}
+
+.jd-product-box .product-top {
+    width: 100%;
+    padding: 10px 5px 0;
+    background: #ffffff;
+    
+}
+
+.jd-product-box .product-top  .jd-secondKill-left {
+    float: left;
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-icon{
+    float: left;
+    display: block;
+    background: url(../images/jd-sprites.png)no-repeat -85px -110px;
+    background-size: 200px 200px;
+    height: 21px;
+    width: 17px;
+    margin-right:5px;
+
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-name{
+    color: #ca1327;
+    float: left;
+    padding-top: 4px;
+    margin-right:5px;
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-time{
+    float: left;
+    padding-top: 4px;
+
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-time span {
+    display: block;
+    float: left;
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-time .num {
+    color: #ffffff;
+    background: #333;
+    width: 12px;
+    height: 18px;
+    text-align: center;
+    border-radius: 3px;
+}
+.jd-product-box .product-top  .jd-secondKill-left  .sk-time .str {
+    width: 10px;
+    height: 18px;
+    text-align: center;
+}
+.jd-product-box .product-top  .jd-secondKill-right {
+    float: right;
+    font-size: 12px;
+    color: #333;
+
+    padding-top: 4px;
+}
+.product-bot .product-bot-box {
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 5px;
+}
+.product-bot .product-bot-box li {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+    background: #ffffff;
+    padding-top: 10px;
+
+
+}
+.product-bot .product-bot-box li img {
+    height: 137px;
+    border-right: 1px solid #ebebeb;
+}
+.product-bot .product-bot-box .newprice {
+    font-size:14px;
+    color: #ca1327;
+}
+.product-bot .product-bot-box .oldprice {
+    font-size:14px;
+    text-decoration: line-through;
+}
+
+.product-bot  .p-bot-pic {
+    display: block;
+    width: 50%;
+    float: left;
+}
+.product-bot  .p-bot-pic img {
+    width: 100%;
+}
+
+/*爱生活*/
+
+
+/* 爱生活 banner*/
+.floor {
+    width: 100%;
+}
+.floor .floor-banner {
+    position: relative;
+    width: 100%;
+}
+.floor .floor-banner img:nth-of-type(2) {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -67px;
+    margin-top: -28px;
+}
+.floor-box{
+    width: 100%;
+
+}
+.p-list {
+    float: left;
+    width: 50%;
+    
+    padding: 5px 5px 0;
+
+}
+.p-list.fore1,
+.p-list.fore3 {
+    border-right: 1px solid #f2f2f2;
+    border-bottom: 1px solid #F2F2F2;
+}
+.p-list.fore2,
+.p-list.fore4{
+    border-bottom: 1px solid #F2F2F2;
+}
+
+.p-list .pBox-font {
+    float: left;
+    width: 55%;
+    line-height: 20px;
+    padding-left: 5px;
+}
+.p-list .pBox-pic {
+    float: right;
+    width: 45%;
+    padding-right: 5px;
+}
+
+.p-list div img {
+    width: 100%;
+}
+.p-list .pBox-font .p-name {
+    font-weight:700;
+    color: #000;
+    font-size: 18px;
+}
+.p-list .pBox-font .p-dec {
+    font-size: 16px;
+}
+.p-list .pBox-font .p-hot {
+    color: #ffffff;
+    font-size: 12px;
+    background: red;
+    height: 18px;
+    padding:5px 0;
+}
+
+.floor-box-extra {
+    width: 100%;
+}
+.pExtra-list {
+    width: 25%;
+    float: left;
+    padding-top: 5px;
+    border-right: 1px solid #F2F2F2;
+    border-bottom: 1px solid #F2F2F2;
+}
+.pExtra-list.fore4 {
+    border-right:none;
+}
+.pExtra-list .pBox-font {
+    width: 100%;
+    line-height: 20px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+.pExtra-list .pBox-font .p-name {
+    font-weight:700;
+    color: #000;
+    font-size: 18px;
+}
+.pExtra-list .pBox-font .p-dec {
+    font-size: 14px;
+    font-family:"微软雅黑";
+}
+.pExtra-list .pBox-pic {
+    width: 100%;
+}
+.pExtra-list .pBox-pic img {
+    width: 100%;
+}
+
+/*jd-banner1 开始*/
+.jd-banner1 {
+    width: 100%;
+    border: 5px solid #EEF4F0;
+    position: relative;
+}
+.jd-banner1 li {
+    width: 100%;
+}
+.jd-banner1 li img {
+    width: 100%;
+}
+.jd-banner1 .pos {
+    width: 60px;
+    height: 6px;
+    position: absolute;
+    bottom: 5px;
+    left:50%;
+    margin-left: -15px;
+}
+.jd-banner1 .pos li {
+    width: 5px;
+    height: 5px;
+    float: left;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+
+/*购特色*/
+
+.featrues .floor-box-extra {
+    width: 100%;
+}
+.featrues .pExtra-list {
+    width: 33.3%;
+    float: left;
+    padding-top: 5px;
+    border-right: 1px solid #F2F2F2;
+    border-bottom: 1px solid #F2F2F2;
+    position: relative;
+}
+.featrues .pExtra-list .pBox-font {
+    width: 100%;
+    line-height: 20px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+.featrues .pExtra-list .pBox-font .p-name {
+    font-weight:700;
+    color: #000;
+    font-size: 18px;
+}
+.featrues .pExtra-list .pBox-font .p-dec {
+    font-size: 14px;
+    font-family:"微软雅黑";
+}
+.featrues .pExtra-list .pBox-font .p-hot {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #F02B2B;
+    color: #ffffff;
+    padding: 0 3px;
+}
+.featrues .pExtra-list .pBox-pic {
+    width: 100%;
+}
+.featrues .pExtra-list .pBox-pic img {
+    padding: 5px;
+    width: 100%;
+}
+
+
+
+@media screen and (min-width: 320px){
+    .jd-nav li p {
+        font-size: 10px;
+    }
+    .jd-nav li img {
+        width: 30px;
+        height: 32px;
+    }
+    .p-list .pBox-font {
+        line-height: 14px;
+    }
+
+
+
+    .p-list .pBox-font .p-name {
+        font-size: 14px;
+    }
+    .p-list .pBox-font .p-dec {
+        font-size: 12px;
+    }
+    .p-list .pBox-font .p-hot {
+        font-size: 8px;
+        height: 12px;
+        padding:5px 0;
+    }
+
+}
+
+@media screen and (min-width: 375px){
+    .jd-nav li p {
+        font-size: 14px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -13px;
+
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+    .p-list .pBox-font {
+        line-height: 20px;
+    }
+
+
+    .p-list .pBox-font .p-name {
+        font-size: 18px;
+    }
+    .p-list .pBox-font .p-dec {
+        font-size: 16px;
+    }
+    .p-list .pBox-font .p-hot {
+        font-size: 12px;
+        height: 18px;
+    }
+
+}
+@media screen and (min-width: 414px){
+    .jd-nav li p {
+        font-size: 16px;
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -2px;
+
+    }
+    .p-list .pBox-font {
+        line-height: 20px;
+    }
+
+
+    .p-list .pBox-font .p-name {
+        font-size: 18px;
+    }
+    .p-list .pBox-font .p-dec {
+        font-size: 16px;
+    }
+    .p-list .pBox-font .p-hot {
+        font-size: 12px;
+        height: 18px;
+    }
+
+}
+@media screen and (min-width: 640px) {
+    .jd-nav li img {
+        width: 90px;
+        height: 90px;
+    }.p-list .pBox-font {
+         line-height: 20px;
+     }
+
+
+    .p-list .pBox-font .p-name {
+        font-size: 18px;
+    }
+    .p-list .pBox-font .p-dec {
+        font-size: 16px;
+    }
+    .p-list .pBox-font .p-hot {
+        font-size: 12px;
+        height: 18px;
+    }
+}
+
+
+
