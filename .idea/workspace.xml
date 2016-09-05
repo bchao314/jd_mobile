@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jd_mobile_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/swiper-3.3.1.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dapangxie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-bannerFont.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-bannerFont.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-category.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-me.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jd-sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLife-banerFont.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLife-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-bannerFont.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p-bot1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p-bot2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider1-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider2-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider3-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/swiper-3.3.1.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jd_mobile.iml" afterPath="$PROJECT_DIR$/.idea/jd_mobile.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="" />
     <ignored path="jd_mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,28 +20,7 @@
     <favorites_list name="jd_mobile" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8">
-              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.90909">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -212,6 +107,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jd_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,7 +237,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15726376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -374,7 +297,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -382,18 +313,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.90909">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/css/swiper-3.3.1.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2619#2877#2" expanded="true" />
+            <element signature="e#3018#3276#2" expanded="true" />
+            <element signature="e#3396#3654#2" expanded="true" />
+            <element signature="e#3734#3992#2" expanded="true" />
+            <element signature="e#4133#4391#2" expanded="true" />
+            <element signature="e#4511#4769#2" expanded="true" />
+            <element signature="e#13712#15159#2" expanded="true" />
+            <element signature="e#15314#16758#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6598241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91495603">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
