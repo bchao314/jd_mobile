@@ -4,13 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0">
     <title>首页</title>
+    <link rel="stylesheet" href="css/swiper-3.3.1.min.css">
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/index.css">
+    <style>
+
+    </style>
 </head>
 <body>
 <div class="jd-layout clearfix">
     <!--搜索头部-->
-    <header class="jd-header">
+    <header class="jd-header clearfix">
         <div class="jd-header-box">
             <a href="#" class="icon-logo"></a>
             <form action="">
@@ -22,19 +26,22 @@
     </header>
     <!--搜索头部结束-->
     <!--滚动图片-->
-    <div class="jd-banner clearfix">
-        <ul class="slider-pic">
+    <!--<div class="jd-banner clearfix" id="jdBanner">
+        <ul class="slider-pic clearfix" id="sliderPic">
+            <li><a href=""><img src="images/mainslider3.jpg" alt=""></a></li>
             <li><a href=""><img src="images/mainslider1.jpg" alt=""></a></li>
-            <li><a href=""><img src="" alt=""></a></li>
-            <li><a href=""><img src="" alt=""></a></li>
-            <li><a href=""><img src="" alt=""></a></li>
-            <li><a href=""><img src="" alt=""></a></li>
-            <li><a href=""><img src="" alt=""></a></li>
-
+            <li><a href=""><img src="images/mainslider2.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider3.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider4.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider5.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider1.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider4.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider3.jpg" alt=""></a></li>
+            <li><a href=""><img src="images/mainslider1.jpg" alt=""></a></li>
         </ul>
-        <!--小圆点-->
-        <ul class="pos">
-            <li></li>
+        &lt;!&ndash;小圆点&ndash;&gt;
+        <ul class="pos" id="bannerPos">
+            <li class="current"></li>
             <li></li>
             <li></li>
             <li></li>
@@ -43,7 +50,23 @@
             <li></li>
             <li></li>
         </ul>
-        <!--滚动图片结束-->
+        &lt;!&ndash;滚动图片结束&ndash;&gt;
+    </div>-->
+    <div class="mianBanner">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><a href=""><img src="images/mainslider1.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider2.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider3.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider4.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider5.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider2.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider3.jpg" alt=""></a></div>
+                <div class="swiper-slide"><a href=""><img src="images/mainslider4.jpg" alt=""></a></div>
+            </div>
+            <!-- 如果需要分页器 -->
+            <div class="swiper-pagination"></div>
+        </div>
     </div>
     <!--导航-->
     <nav class="jd-nav clearfix">
@@ -263,13 +286,15 @@
                 </div>
                 <!--jd-banner-->
                 <div class="jd-banner1">
-                    <ul>
-                        <li><a href=""><img src="images/slider1-1.jpg" alt=""></a></li>
-                    </ul>
-                    <ul class="pos">
-                        <li></li>
-                        <li></li>
-                    </ul>
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><a href=""><img src="images/slider3-1.jpg" alt=""></a></div>
+                            <div class="swiper-slide"><a href=""><img src="images/slider2-1.jpg" alt=""></a></div>
+                        </div>
+
+                        <!-- 如果需要分页器 -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -345,14 +370,15 @@
                     </div>
                 </div>
                 <!--jd-banner-->
-                <div class="jd-banner1">
-                    <ul>
-                        <li><a href=""><img src="images/slider2-1.jpg" alt=""></a></li>
-                    </ul>
-                    <ul class="pos">
-                        <li></li>
-                        <li></li>
-                    </ul>
+                <div class="jd-banner2">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><a href=""><img src="images/slider2-1.jpg" alt=""></a></div>
+                            <div class="swiper-slide"><a href=""><img src="images/slider1-1.jpg" alt=""></a></div>
+                        </div>
+                        <!-- 如果需要分页器 -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -360,7 +386,7 @@
         <!--购特色开始-->
         <div class="featrues">
             <div class="floor clearfix">
-                <!--banner-->
+                <!--title-->
                 <div class="floor-banner">
                     <img src="images/loveLife-banner.png" alt="">
                     <img src="images/featrues-bannerFont.png" alt="">
@@ -458,14 +484,15 @@
                     </div>
                 </div>
                 <!--jd-banner-slider-->
-                <div class="jd-banner1">
-                    <ul>
-                        <li><a href=""><img src="images/slider3-1.jpg" alt=""></a></li>
-                    </ul>
-                    <ul class="pos">
-                        <li></li>
-                        <li></li>
-                    </ul>
+                <div class="jd-banner3">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><a href=""><img src="images/slider1-1.jpg" alt=""></a></div>
+                            <div class="swiper-slide"><a href=""><img src="images/slider2-1.jpg" alt=""></a></div>
+                        </div>
+                        <!-- 如果需要分页器 -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -535,7 +562,7 @@
                         <a href="">
                             <div class="pBox-font">
                                 <p class="p-name">电脑办公</p>
-                                <p class="p-dec">游戏手柄19.9</p>
+                                <p class="p-dec">手柄19.9</p>
                                 <span class="p-hot"></span>
                             </div>
                             <div class="pBox-pic"><img src="images/mail-listExtra2.jpg" alt=""></div>
@@ -566,7 +593,7 @@
                     <div class="pExtra-list fore1">
                         <a href="">
                             <div class="pBox-font">
-                                <p class="p-name">生鲜馆/p>
+                                <p class="p-name">生鲜馆</p>
                                 <p class="p-dec">一元两根玉米</p>
                                 <span class="p-hot"></span>
                             </div>
@@ -587,7 +614,7 @@
                         <a href="">
                             <div class="pBox-font">
                                 <p class="p-name">中外名酒</p>
-                                <p class="p-dec">满999减500</p>
+                                <p class="p-dec">999减500</p>
                                 <span class="p-hot"></span>
                             </div>
                             <div class="pBox-pic"><img src="images/mail-listExtra33.jpg" alt=""></div>
@@ -609,10 +636,6 @@
                     <ul>
                         <li><a href=""><img src="images/slider1-1.jpg" alt=""></a></li>
                     </ul>
-                    <ul class="pos">
-                        <li></li>
-                        <li></li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -625,30 +648,30 @@
                 <li><a href="">登陆</a></li>
                 <li><a href="">注册</a></li>
                 <li><a href="">反馈</a></li>
-                <li><a href="">回到顶部</a></li>
+                <li id="goTop"><a href="">回到顶部</a></li>
             </ul>
         </div>
         <div class="uesCategory">
-           <div class="wrap">
-               <div class="fore1">
-                   <a href="">
-                       <i></i>
-                       <p>客户端</p>
-                   </a>
-               </div>
-               <div class="fore2">
-                   <a href="">
-                       <i></i>
-                       <p>触平版</p>
-                   </a>
-               </div>
-               <div class="fore3">
-                   <a href="">
-                       <i></i>
-                       <p>电脑板</p>
-                   </a>
-               </div>
-           </div>
+            <div class="wrap">
+                <div class="fore1">
+                    <a href="">
+                        <i></i>
+                        <p>客户端</p>
+                    </a>
+                </div>
+                <div class="fore2">
+                    <a href="">
+                        <i></i>
+                        <p>触平版</p>
+                    </a>
+                </div>
+                <div class="fore3">
+                    <a href="">
+                        <i></i>
+                        <p>电脑板</p>
+                    </a>
+                </div>
+            </div>
         </div>
         <div class="copyRight">
             <p>Copyright © 2004-2016 京东JD.com 版权所有</p>
@@ -658,13 +681,17 @@
     <!--底部固定栏开始-->
     <div class="footerFixed">
         <ul>
-            <li class="fore1"><a href=""><img src="images/icon-home.png" alt=""></a></li>
-            <li class="fore2"><a href=""><img src="images/icon-category.png" alt=""></a></li>
-            <li class="fore3"><a href=""><img src="images/icon-cart.png" alt=""></a></li>
-            <li class="fore4"><a href=""><img src="images/icon-me.png" alt=""></a></li>
+            <li class="fore1"><a href="javascript:;"><img src="images/icon-home.png" alt=""></a></li>
+            <li class="fore2"><a href="javascript:;"><img src="images/icon-category.png" alt=""></a></li>
+            <li class="fore3"><a href="javascript:;"><img src="images/icon-cart.png" alt=""></a></li>
+            <li class="fore4"><a href="javascript:;"><img src="images/icon-me.png" alt=""></a></li>
         </ul>
     </div>
     <!--底部固定栏结束-->
 </div>
+
+<script src="js/animate.js"></script>
+<script src="js/swiper-3.3.1.min.js"></script>
+<script src="js/index.js"></script>
 </body>
 </html>

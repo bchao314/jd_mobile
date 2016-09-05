@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*css 初始化 */
+
 html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img {
     margin: 0;
     padding: 0;
@@ -18,7 +18,7 @@ html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, l
 
 body{
     font-size: 16px;
-    font-family: sans-serif;/*第二个是手机的一个默认的字体*/
+    font-family: sans-serif;
     color: #000;
 }
 
@@ -74,7 +74,7 @@ table {
 }
 
 .clearfix {
-    *zoom: 1; /*IE/7/6*/
+    *zoom: 1;
 }
 
 a {
