@@ -13,6 +13,7 @@ html,body {
     margin: 0 auto;
     position: relative;
     overflow: hidden;
+
 }
 
 .jd-header {
@@ -74,26 +75,32 @@ html,body {
 
 
 /*banner 部分*/
+/*
 .jd-banner {
     position: relative;
     width: 100%;
-    overflow: hidden;
-
 
 }
 .jd-banner .slider-pic {
-    width: 800%;
+    width: 1000%;
+    !*-webkit-transform:translateX(-10%);
+    transform:translateX(-10%);*!
+    position: relative;
+    left: -100%;
+    top: 0;
 
 }
 .jd-banner .slider-pic >li{
     float: left;
-    width: 12.5%;
+    width: 10%;
 
 }
 .jd-banner .slider-pic >li img {
     width: 100%;
     display: block;
 }
+
+!*小圆点*!
 .jd-banner .pos {
     width: 118px;
     height: 6px;
@@ -111,6 +118,11 @@ html,body {
     margin-left: 5px;
 
 }
+.jd-banner .pos .current {
+    background: #ffffff;
+}
+*/
+
 .jd-nav {
     width: 100%;
     position: relative;
@@ -429,7 +441,8 @@ html,body {
     width: 100%;
 }
 
-/*jd-banner1 开始*/
+/*
+!*jd-banner1 开始*!
 .jd-banner1 {
     width: 100%;
     border: 5px solid #EEF4F0;
@@ -457,6 +470,7 @@ html,body {
     border-radius: 3px;
     margin-right: 5px;
 }
+*/
 
 
 /*购特色*/
@@ -611,6 +625,38 @@ html,body {
         font-size: 12px;
         height: 18px;
     }
+}
+
+
+
+
+/*swiper*/
+.swiper-container {
+    width: 100%
+}
+
+.swiper-container img {
+    width: 100%;
+}
+
+ .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin: 0px 4px;
+}
+
+
+ .swiper-pagination-bullet {
+    width: 6px;
+    height: 6px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    background: none;
+    opacity:1;
+
+}
+ .swiper-pagination-bullet-active {
+    background: #ffffff;
+    opacity:1;
 }
 
 
