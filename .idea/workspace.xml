@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/swiper.min.js" />
-    </list>
+    <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="" />
     <ignored path="jd_mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
