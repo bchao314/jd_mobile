@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="" />
+=======
+    <list default="true" id="76a046de-9416-42cd-b14d-f838a5a036fe" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/swiper-3.3.1.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dapangxie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-bannerFont.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enjoy-list6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-bannerFont.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/featrues-list9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-category.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-me.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jd-sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLife-banerFont.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLife-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loveLift-listExtra4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-bannerFont.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mail-listExtra44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mainslider5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nav9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pangxiejiao3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p-bot1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p-bot2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sk-p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/swiper-3.3.1.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jd_mobile.iml" afterPath="$PROJECT_DIR$/.idea/jd_mobile.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
     <ignored path="jd_mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,6 +129,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/base.css" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/cssmin/index.css" />
+        <option value="$PROJECT_DIR$/css/jsmin.js" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
@@ -90,7 +181,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -134,12 +228,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="css" />
+=======
+              <option name="myItemId" value="cssmin" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,13 +385,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://C:/迅雷下载/传智/就业班（完整）/06移动web开发/移动web开发/06-移动web开发_06/jd/css/index.css">
+=======
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="639" column="1" selection-start-line="639" selection-start-column="1" selection-end-line="639" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49560118">
           <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../swiper/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -301,6 +416,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+=======
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="639" column="1" selection-start-line="639" selection-start-column="1" selection-end-line="639" selection-end-column="1" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
           <folding />
         </state>
       </provider>
@@ -316,7 +437,43 @@
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="86" column="15" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="15" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
           <folding />
         </state>
       </provider>
@@ -325,6 +482,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding>
             <element signature="e#2619#2877#2" expanded="true" />
             <element signature="e#3018#3276#2" expanded="true" />
@@ -335,6 +493,101 @@
             <element signature="e#13712#15159#2" expanded="true" />
             <element signature="e#15314#16758#2" expanded="true" />
           </folding>
+=======
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="599" column="25" selection-start-line="599" selection-start-column="25" selection-end-line="599" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/迅雷下载/传智/就业班（完整）/06移动web开发/移动web开发/06-移动web开发_06/jd/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-3.6598241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.49560118">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swiper/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26686218">
+          <caret line="459" column="23" selection-start-line="459" selection-start-column="23" selection-end-line="459" selection-end-column="23" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91495603">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9560117">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cssmin/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cssmin/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5757576">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -346,18 +599,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6598241">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.74545455">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91495603">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.771261">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+>>>>>>> 3a0eec528e20ba716eb619486e45d3d3f1d0c239
           <folding />
         </state>
       </provider>

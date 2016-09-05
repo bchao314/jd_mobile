@@ -9,7 +9,8 @@ var cssmin=require("gulp-clean-css")
 
 gulp.task("html",function(){
     gulp.src("index.html")
-        .pipe(html({collapseWhitespace: true,
+        .pipe(html({collapseWhitespace: true
+            ,
             removeComments: true
         }))
         .pipe(gulp.dest("js"))
@@ -27,9 +28,8 @@ gulp.task("pics",function(){
         .pipe(gulp.dest("imagesmin"))
 
 })
-gulp.task("cssmin",function(){
+gulp.task("cssmin",function() {
     gulp.src("css/*.css")
         .pipe(cssmin())
-        .pipe(gulp.dest("cssmin"))
-
-})
+        .pipe(gulp.dest("cssmin")
+    )})
